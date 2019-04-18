@@ -4,10 +4,10 @@ import pickle
 import numpy as np
 import csv
 import matplotlib.pyplot as plt
-from cycler import cycler
+#from cycler import cycler
 from collections import Counter
 from collections import defaultdict
-import pandas as pd
+#import pandas as pd
 import seaborn as sns
 
 import nltk
